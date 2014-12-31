@@ -31,16 +31,7 @@ I could always revert to a previous working state
 7. Now that you have your workspace set up, what do you want to try using Git for?
 
 Everything
-
-8. What happens when you initialize a repository? Why do you need to do it?
-
-a .git file is created along with a repository. It creates the framework for commits
-
-9. How is the staging area different from the working directory and the repository? What value do you think it offers?
-
-untracked files are held, collection point for linked files
-
-10. 
+ 
 
 
 

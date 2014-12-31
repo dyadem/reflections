@@ -36,7 +36,11 @@ Everything
 
 a .git file is created along with a repository. It creates the framework for commits
 
-9. 
+9. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+untracked files are held, collection point for linked files
+
+10. 
 
 
 

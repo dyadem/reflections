@@ -6,4 +6,14 @@ a .git file is created along with a repository. It creates the framework for com
 
 untracked files are held, collection point for linked files
 
-10.
+10. How can you use the staging area to make sure you have one commit per logical change?
+
+add files while working on a logical change and commit when done
+
+11. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+making changes that are experimental or creating a version. Branch would keep original from being altered and allow a clean prject to merge with'
+
+12. How do the diagrams help you visualize the branch structure?
+
+Showing the links and branches

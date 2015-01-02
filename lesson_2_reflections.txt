@@ -17,3 +17,11 @@ making changes that are experimental or creating a version. Branch would keep or
 12. How do the diagrams help you visualize the branch structure?
 
 Showing the links and branches
+
+13. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+includes all the parent commits of both branches
+
+14. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+streamlined, automated, cons: blends everything new or changed without discrimination

@@ -10,5 +10,9 @@ Have control over what is pulled
 
 Fork is a github clone retaining reference to the author used when cloning someone elses work, clone is a local download of another repository used when a copy is needed, branch is a version used to experiment or provide an alternative development stream.
 
- 
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+the versions can be compared and merged offline
+
+5. 
 

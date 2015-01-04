@@ -14,5 +14,7 @@ Fork is a github clone retaining reference to the author used when cloning someo
 
 the versions can be compared and merged offline
 
-5. 
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+USB, emailing files, dropbox, googledocs, SVN, face to face etc. Would be harder to merge branches, collaborate remotely, and fork  
 

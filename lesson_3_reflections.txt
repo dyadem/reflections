@@ -6,5 +6,9 @@ When the repository is meant to be public
 
 Have control over what is pulled
 
-3.
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a github clone retaining reference to the author used when cloning someone elses work, clone is a local download of another repository used when a copy is needed, branch is a version used to experiment or provide an alternative development stream.
+
+ 
 

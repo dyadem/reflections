@@ -18,3 +18,6 @@ the versions can be compared and merged offline
 
 USB, emailing files, dropbox, googledocs, SVN, face to face etc. Would be harder to merge branches, collaborate remotely, and fork  
 
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When protecting the master from unwanted changes. 
